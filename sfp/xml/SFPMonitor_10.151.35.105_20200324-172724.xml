@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SFPDiagnosticDataMonitoringNotification>
+  <Cablink>
+    <_endPoint1/>
+    <_endPoint2>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-1</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>1</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1/>
+    <_endPoint2>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-2</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>1</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1/>
+    <_endPoint2>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-3</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>1</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1/>
+    <_endPoint2>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-4</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>1</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1/>
+    <_endPoint2>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-5</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>1</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1/>
+    <_endPoint2>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-6</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>1</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>?????V?z???????l_4??z???????d?</_sfpVendor>
+    <_sfpSerialNumber>???????d?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>326.000000 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-1</_distname>
+    <_physicalPort>RF1-1</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-702</_sfpVendor>
+    <_sfpSerialNumber>FR190412295</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10000 Mb/s</_transmissionRate>
+    <_transmissionDistance>327.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>1000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>36 C</_temperature>
+    <_txVoltage>3121 mV</_txVoltage>
+    <_txCurrent>45 mA</_txCurrent>
+    <_txPower>-3 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>?????V?b???????L_4??b???????P?</_sfpVendor>
+    <_sfpSerialNumber>???????P?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>292.000000 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>ReadError</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-2</_distname>
+    <_physicalPort>RF6-6</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-702</_sfpVendor>
+    <_sfpSerialNumber>FR190412705</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10000 Mb/s</_transmissionRate>
+    <_transmissionDistance>292.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>1000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>35 C</_temperature>
+    <_txVoltage>3197 mV</_txVoltage>
+    <_txCurrent>45 mA</_txCurrent>
+    <_txPower>-3 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>?????V?F???????0_4??F?????^P5?</_sfpVendor>
+    <_sfpSerialNumber>?????^P5?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>312.000000 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-3</_distname>
+    <_physicalPort>RF2-2</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-702</_sfpVendor>
+    <_sfpSerialNumber>FR190412296</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10000 Mb/s</_transmissionRate>
+    <_transmissionDistance>312.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>1000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>36 C</_temperature>
+    <_txVoltage>3154 mV</_txVoltage>
+    <_txCurrent>42 mA</_txCurrent>
+    <_txPower>-1 dBm</_txPower>
+    <_rxPower>-5 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>?????V?~????@y/h_4??~???????m?</_sfpVendor>
+    <_sfpSerialNumber>???????m?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>307.000000 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-4</_distname>
+    <_physicalPort>RF5-5</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-702</_sfpVendor>
+    <_sfpSerialNumber>FR190412294</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10000 Mb/s</_transmissionRate>
+    <_transmissionDistance>307.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>1000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>36 C</_temperature>
+    <_txVoltage>3140 mV</_txVoltage>
+    <_txCurrent>44 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-5 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>?????V?j?????g/T_4??j?????^PY?</_sfpVendor>
+    <_sfpSerialNumber>?????^PY?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>321.000000 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-5</_distname>
+    <_physicalPort>RF4-4</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-702</_sfpVendor>
+    <_sfpSerialNumber>FR190412277</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10000 Mb/s</_transmissionRate>
+    <_transmissionDistance>320.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>1000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>35 C</_temperature>
+    <_txVoltage>3173 mV</_txVoltage>
+    <_txCurrent>43 mA</_txCurrent>
+    <_txPower>-3 dBm</_txPower>
+    <_rxPower>-4 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>?????V?j????@??T_4??j?????^?X?</_sfpVendor>
+    <_sfpSerialNumber>?????^?X?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>298.000000 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-559236/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-6</_distname>
+    <_physicalPort>RF3-3</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-702</_sfpVendor>
+    <_sfpSerialNumber>FR190412297</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10000 Mb/s</_transmissionRate>
+    <_transmissionDistance>298.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>1000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>36 C</_temperature>
+    <_txVoltage>3119 mV</_txVoltage>
+    <_txCurrent>42 mA</_txCurrent>
+    <_txPower>-3 dBm</_txPower>
+    <_rxPower>-4 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF4-7</_physicalPort>
+    <_sfpVendor>?????V?j????`T/T_4??j?????^PY?</_sfpVendor>
+    <_sfpSerialNumber>?????^PY?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>ReadError</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF4-7</_physicalPort>
+    <_sfpVendor>?????V?~??????/h_4??~???????m?</_sfpVendor>
+    <_sfpSerialNumber>???????m?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF4-7</_physicalPort>
+    <_sfpVendor>?????V?F????P??0_4??F?????^P5?</_sfpVendor>
+    <_sfpSerialNumber>?????^P5?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF2-5</_physicalPort>
+    <_sfpVendor>?????V?j????`q/T_4??j?????^PY?</_sfpVendor>
+    <_sfpSerialNumber>?????^PY?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF3-6</_physicalPort>
+    <_sfpVendor>?????V?j???????T_4??j?????^?X?</_sfpVendor>
+    <_sfpSerialNumber>?????^?X?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF2-5</_physicalPort>
+    <_sfpVendor>?????V?j???????T_4??j?????^?X?</_sfpVendor>
+    <_sfpSerialNumber>?????^?X?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF3-6</_physicalPort>
+    <_sfpVendor>?????V?~????p?/h_4??~???????m?</_sfpVendor>
+    <_sfpSerialNumber>???????m?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF3-6</_physicalPort>
+    <_sfpVendor>?????V?z????0??l_4??z???????d?</_sfpVendor>
+    <_sfpSerialNumber>???????d?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF2-5</_physicalPort>
+    <_sfpVendor>?????V?z????P??l_4??z???????d?</_sfpVendor>
+    <_sfpSerialNumber>???????d?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF4-7</_physicalPort>
+    <_sfpVendor>?????V?z????@??l_4??z???????d?</_sfpVendor>
+    <_sfpSerialNumber>???????d?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF3-6</_physicalPort>
+    <_sfpVendor>?????V?j?????y/T_4??j?????^PY?</_sfpVendor>
+    <_sfpSerialNumber>?????^PY?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF2-5</_physicalPort>
+    <_sfpVendor>?????V?~????@?/h_4??~???????m?</_sfpVendor>
+    <_sfpSerialNumber>???????m?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF3-6</_physicalPort>
+    <_sfpVendor>?????V?F???????0_4??F?????^P5?</_sfpVendor>
+    <_sfpSerialNumber>?????^P5?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF2-5</_physicalPort>
+    <_sfpVendor>?????V?F????p??0_4??F?????^P5?</_sfpVendor>
+    <_sfpSerialNumber>?????^P5?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF4-7</_physicalPort>
+    <_sfpVendor>?????V?b???????L_4??b???????P?</_sfpVendor>
+    <_sfpSerialNumber>???????P?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF2-5</_physicalPort>
+    <_sfpVendor>?????V?b???????L_4??b???????P?</_sfpVendor>
+    <_sfpSerialNumber>???????P?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF3-6</_physicalPort>
+    <_sfpVendor>?????V?b????p??L_4??b???????P?</_sfpVendor>
+    <_sfpSerialNumber>???????P?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname/>
+    <_physicalPort>OPT_IF4-7</_physicalPort>
+    <_sfpVendor>?????V?j???????T_4??j?????^?X?</_sfpVendor>
+    <_sfpSerialNumber>?????^?X?</_sfpSerialNumber>
+    <_sfpType>Unknown</_sfpType>
+    <_waveLength>NotSupported</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>12700 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>NotSupported</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>NotSupported</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>NotSupported</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>NotSupported</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>NotSupported</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>NotSupported</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>NotSupported</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>NotSupported</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>NotSupported</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>NotSupported</_tempLoAlmThreshold>
+    <_temperature>ReadError</_temperature>
+    <_txVoltage>ReadError</_txVoltage>
+    <_txCurrent>ReadError</_txCurrent>
+    <_txPower>NotSupported</_txPower>
+    <_rxPower>NotSupported</_rxPower>
+  </SFP>
+</SFPDiagnosticDataMonitoringNotification>

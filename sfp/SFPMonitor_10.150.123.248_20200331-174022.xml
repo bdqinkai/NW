@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SFPDiagnosticDataMonitoringNotification>
+  <Cablink>
+    <_endPoint1>MRBTS-556029/EQM-1/APEQM-1/RMOD-3/SFP-1</_endPoint1>
+    <_endPoint2>MRBTS-556029/EQM-1/APEQM-1/RMOD-2/SFP-2</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-556029/EQM-1/APEQM-1/RMOD-2/SFP-3</_endPoint1>
+    <_endPoint2>MRBTS-556029/EQM-1/APEQM-1/RMOD-1/SFP-4</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-556029/EQM-1/APEQM-1/RMOD-1/SFP-5</_endPoint1>
+    <_endPoint2>MRBTS-556029/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-1</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-556029/EQM-1/APEQM-1/RMOD-6/SFP-6</_endPoint1>
+    <_endPoint2>MRBTS-556029/EQM-1/APEQM-1/RMOD-5/SFP-7</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-556029/EQM-1/APEQM-1/RMOD-7/SFP-8</_endPoint1>
+    <_endPoint2>MRBTS-556029/EQM-1/APEQM-1/RMOD-6/SFP-9</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-556029/EQM-1/APEQM-1/RMOD-4/SFP-10</_endPoint1>
+    <_endPoint2>MRBTS-556029/EQM-1/APEQM-1/CABINET-1/BBMOD-2/SFP-2</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-556029/EQM-1/APEQM-1/RMOD-5/SFP-11</_endPoint1>
+    <_endPoint2>MRBTS-556029/EQM-1/APEQM-1/RMOD-4/SFP-12</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-3/SFP-1</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190707746</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>23 C</_temperature>
+    <_txVoltage>3253 mV</_txVoltage>
+    <_txCurrent>36 mA</_txCurrent>
+    <_txPower>-3 dBm</_txPower>
+    <_rxPower>-4 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-2/SFP-2</_distname>
+    <_physicalPort>OPT_IF2-2</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190707818</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>22 C</_temperature>
+    <_txVoltage>3302 mV</_txVoltage>
+    <_txCurrent>36 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-4 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-2/SFP-3</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>HGGENUINE_MTRS-1E21-04</_sfpVendor>
+    <_sfpSerialNumber>MA18220080714</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>9900 Mb/s</_transmissionRate>
+    <_transmissionDistance>0.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>1 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-18 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>28 C</_temperature>
+    <_txVoltage>3335 mV</_txVoltage>
+    <_txCurrent>43 mA</_txCurrent>
+    <_txPower>-3 dBm</_txPower>
+    <_rxPower>-2 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-1/SFP-4</_distname>
+    <_physicalPort>OPT_IF2-2</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190707784</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>23 C</_temperature>
+    <_txVoltage>3255 mV</_txVoltage>
+    <_txCurrent>37 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-4 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-1/SFP-5</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190709423</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>1565.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>22 C</_temperature>
+    <_txVoltage>3241 mV</_txVoltage>
+    <_txCurrent>37 mA</_txCurrent>
+    <_txPower>-3 dBm</_txPower>
+    <_rxPower>-4 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/CABINET-1/BBMOD-1/SFP-1</_distname>
+    <_physicalPort>RF1-1</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190709383</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>1565.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>35 C</_temperature>
+    <_txVoltage>3190 mV</_txVoltage>
+    <_txCurrent>38 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-7 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-6/SFP-6</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190707759</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>24 C</_temperature>
+    <_txVoltage>3284 mV</_txVoltage>
+    <_txCurrent>37 mA</_txCurrent>
+    <_txPower>-3 dBm</_txPower>
+    <_rxPower>-7 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-5/SFP-7</_distname>
+    <_physicalPort>OPT_IF2-2</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190707791</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>21 C</_temperature>
+    <_txVoltage>3262 mV</_txVoltage>
+    <_txCurrent>34 mA</_txCurrent>
+    <_txPower>-1 dBm</_txPower>
+    <_rxPower>-6 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-7/SFP-8</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>HGGENUINE_MTRS-1E21-04</_sfpVendor>
+    <_sfpSerialNumber>MB18131540268</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>9900 Mb/s</_transmissionRate>
+    <_transmissionDistance>0.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>1 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-18 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>28 C</_temperature>
+    <_txVoltage>3345 mV</_txVoltage>
+    <_txCurrent>44 mA</_txCurrent>
+    <_txPower>-3 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-6/SFP-9</_distname>
+    <_physicalPort>OPT_IF2-2</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190707978</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>22 C</_temperature>
+    <_txVoltage>3273 mV</_txVoltage>
+    <_txCurrent>37 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-4/SFP-10</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190703657</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>1561.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>22 C</_temperature>
+    <_txVoltage>3289 mV</_txVoltage>
+    <_txCurrent>37 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/CABINET-1/BBMOD-2/SFP-2</_distname>
+    <_physicalPort>RF1-1</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190709863</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>1561.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>37 C</_temperature>
+    <_txVoltage>3163 mV</_txVoltage>
+    <_txCurrent>40 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-5/SFP-11</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190707745</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>22 C</_temperature>
+    <_txVoltage>3320 mV</_txVoltage>
+    <_txCurrent>35 mA</_txCurrent>
+    <_txPower>-1 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-556029/EQM-1/APEQM-1/RMOD-4/SFP-12</_distname>
+    <_physicalPort>OPT_IF2-2</_physicalPort>
+    <_sfpVendor>SOURCEPHOTONICS_SPP10ELRIDFRNK2</_sfpVendor>
+    <_sfpSerialNumber>U2190707787</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0.000000 m</_transmissionDistance>
+    <_maxTransmissionDistanceSmfKm>2000 m</_maxTransmissionDistanceSmfKm>
+    <_maxTransmissionDistanceSmf>1400 m</_maxTransmissionDistanceSmf>
+    <_maxTransmissionDistance50U>NotSupported</_maxTransmissionDistance50U>
+    <_maxTransmissionDistance625U>NotSupported</_maxTransmissionDistance625U>
+    <_maxTransmissionDistanceCopper>NotSupported</_maxTransmissionDistanceCopper>
+    <_maxTransmissionDistanceOm3>NotSupported</_maxTransmissionDistanceOm3>
+    <_txPwrHiAlmThreshold>3 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-11 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>3 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-10 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>3 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-16 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>100 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-50 C</_tempLoAlmThreshold>
+    <_temperature>23 C</_temperature>
+    <_txVoltage>3313 mV</_txVoltage>
+    <_txCurrent>35 mA</_txCurrent>
+    <_txPower>-1 dBm</_txPower>
+    <_rxPower>-2 dBm</_rxPower>
+  </SFP>
+</SFPDiagnosticDataMonitoringNotification>

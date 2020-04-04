@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SFPDiagnosticDataMonitoringNotification>
+  <Cablink>
+    <_endPoint1>MRBTS-746762/RMOD-2/SFP-1</_endPoint1>
+    <_endPoint2>MRBTS-746762/SMOD-1/SFP-1</_endPoint2>
+    <_linkType>RP3_01Link</_linkType>
+    <_linkSpeed>6144 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-746762/RMOD-1/SFP-2</_endPoint1>
+    <_endPoint2>MRBTS-746762/SMOD-1/SFP-2</_endPoint2>
+    <_linkType>RP3_01Link</_linkType>
+    <_linkSpeed>6144 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <SFP>
+    <_distname>MRBTS-746762/RMOD-2/SFP-1</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>FINISARCORP._FTLF1326P3BTL-NN</_sfpVendor>
+    <_sfpSerialNumber>VF1335006LO</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>SingleMode</_transmissionMode>
+    <_transmissionRate>6300 Mb/s</_transmissionRate>
+    <_transmissionDistance>50 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>1 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-21 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-19 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>110 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-40 C</_tempLoAlmThreshold>
+    <_temperature>57 C</_temperature>
+    <_txVoltage>3305 mV</_txVoltage>
+    <_txCurrent>50 mA</_txCurrent>
+    <_txPower>727 uW</_txPower>
+    <_rxPower>776 uW</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-746762/SMOD-1/SFP-1</_distname>
+    <_physicalPort>RF_EXT2-2</_physicalPort>
+    <_sfpVendor>FINISARCORP._FTLF1326P3BTL-NN</_sfpVendor>
+    <_sfpSerialNumber>VF1335002VK</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>SingleMode</_transmissionMode>
+    <_transmissionRate>6300 Mb/s</_transmissionRate>
+    <_transmissionDistance>50 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>1 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-21 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-19 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>110 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-40 C</_tempLoAlmThreshold>
+    <_temperature>57 C</_temperature>
+    <_txVoltage>3279 mV</_txVoltage>
+    <_txCurrent>52 mA</_txCurrent>
+    <_txPower>821 uW</_txPower>
+    <_rxPower>732 uW</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-746762/RMOD-1/SFP-2</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>FINISARCORP._FTLF1326P3BTL-NN</_sfpVendor>
+    <_sfpSerialNumber>VF1335005ES</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>SingleMode</_transmissionMode>
+    <_transmissionRate>6300 Mb/s</_transmissionRate>
+    <_transmissionDistance>50 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>1 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-21 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-19 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>110 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-40 C</_tempLoAlmThreshold>
+    <_temperature>57 C</_temperature>
+    <_txVoltage>3285 mV</_txVoltage>
+    <_txCurrent>51 mA</_txCurrent>
+    <_txPower>852 uW</_txPower>
+    <_rxPower>800 uW</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-746762/SMOD-1/SFP-2</_distname>
+    <_physicalPort>RF_EXT1-1</_physicalPort>
+    <_sfpVendor>FINISARCORP._FTLF1326P3BTL-NN</_sfpVendor>
+    <_sfpSerialNumber>VF1335002V9</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>SingleMode</_transmissionMode>
+    <_transmissionRate>6300 Mb/s</_transmissionRate>
+    <_transmissionDistance>50 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>1 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-21 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-19 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>110 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-40 C</_tempLoAlmThreshold>
+    <_temperature>59 C</_temperature>
+    <_txVoltage>3280 mV</_txVoltage>
+    <_txCurrent>51 mA</_txCurrent>
+    <_txPower>736 uW</_txPower>
+    <_rxPower>940 uW</_rxPower>
+  </SFP>
+</SFPDiagnosticDataMonitoringNotification>

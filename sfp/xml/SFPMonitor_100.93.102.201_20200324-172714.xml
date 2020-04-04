@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SFPDiagnosticDataMonitoringNotification>
+  <Cablink>
+    <_endPoint1>MRBTS-1015855/RMOD-5/SFP-1</_endPoint1>
+    <_endPoint2>MRBTS-1015855/SMOD-1/SFP-1</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>NotSupported</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-1015855/RMOD-1/SFP-2</_endPoint1>
+    <_endPoint2>MRBTS-1015855/SMOD-1/SFP-2</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>NotSupported</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-1015855/RMOD-2/SFP-3</_endPoint1>
+    <_endPoint2>MRBTS-1015855/RMOD-3/SFP-4</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-1015855/RMOD-4/SFP-5</_endPoint1>
+    <_endPoint2>MRBTS-1015855/RMOD-2/SFP-6</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-1015855/RMOD-3/SFP-7</_endPoint1>
+    <_endPoint2>MRBTS-1015855/SMOD-1/SFP-3</_endPoint2>
+    <_linkType>CPRILink</_linkType>
+    <_linkSpeed>9830 Mb/s</_linkSpeed>
+    <_ber>NotSupported</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <SFP>
+    <_distname>MRBTS-1015855/RMOD-5/SFP-1</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>FINISAR CORP._FTLX1471D3BTL-AW.A</_sfpVendor>
+    <_sfpSerialNumber>AUM1CVY</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>SingleMode</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>1406 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-9 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>2 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>33 C</_temperature>
+    <_txVoltage>3321 mV</_txVoltage>
+    <_txCurrent>45 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/SMOD-1/SFP-1</_distname>
+    <_physicalPort>RFEXT5_10G-9</_physicalPort>
+    <_sfpVendor>FINISARCORP._FTLX1471D3BTL-AW</_sfpVendor>
+    <_sfpSerialNumber>AUN1BUC</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>SingleMode</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>1405 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>37 C</_temperature>
+    <_txVoltage>3269 mV</_txVoltage>
+    <_txCurrent>45 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-2 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/RMOD-1/SFP-2</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>FINISAR CORP._FTLX1471D3BTL-AW.A</_sfpVendor>
+    <_sfpSerialNumber>AUM1FZJ</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>SingleMode</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>3306 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-9 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>2 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>33 C</_temperature>
+    <_txVoltage>3324 mV</_txVoltage>
+    <_txCurrent>42 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/SMOD-1/SFP-2</_distname>
+    <_physicalPort>RFEXT1_10G-5</_physicalPort>
+    <_sfpVendor>FINISARCORP._FTLX1471D3BTL-AW</_sfpVendor>
+    <_sfpSerialNumber>AUN1B6L</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>SingleMode</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>3306 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>38 C</_temperature>
+    <_txVoltage>3259 mV</_txVoltage>
+    <_txCurrent>42 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/RMOD-2/SFP-3</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>FINISAR CORP._FTLX1370W3BTL-AW.A</_sfpVendor>
+    <_sfpSerialNumber>UV61ACX</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-9 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>2 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>32 C</_temperature>
+    <_txVoltage>3315 mV</_txVoltage>
+    <_txCurrent>49 mA</_txCurrent>
+    <_txPower>-1 dBm</_txPower>
+    <_rxPower>-2 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/RMOD-3/SFP-4</_distname>
+    <_physicalPort>OPT_IF2-2</_physicalPort>
+    <_sfpVendor>FINISAR CORP._FTLX1370W3BTL-AW.A</_sfpVendor>
+    <_sfpSerialNumber>UV61S7N</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-9 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>2 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>30 C</_temperature>
+    <_txVoltage>3317 mV</_txVoltage>
+    <_txCurrent>46 mA</_txCurrent>
+    <_txPower>-1 dBm</_txPower>
+    <_rxPower>-1 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/RMOD-4/SFP-5</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>FINISAR CORP._FTLX1370W3BTL-AW.A</_sfpVendor>
+    <_sfpSerialNumber>UV605K3</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-9 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>2 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>32 C</_temperature>
+    <_txVoltage>3323 mV</_txVoltage>
+    <_txCurrent>46 mA</_txCurrent>
+    <_txPower>-1 dBm</_txPower>
+    <_rxPower>-2 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/RMOD-2/SFP-6</_distname>
+    <_physicalPort>OPT_IF2-2</_physicalPort>
+    <_sfpVendor>FINISAR CORP._FTLX1370W3BTL-AW.A</_sfpVendor>
+    <_sfpSerialNumber>UV61S7W</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-9 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>2 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>30 C</_temperature>
+    <_txVoltage>3320 mV</_txVoltage>
+    <_txCurrent>47 mA</_txCurrent>
+    <_txPower>-1 dBm</_txPower>
+    <_rxPower>-2 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/RMOD-3/SFP-7</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>FINISAR CORP._FTLX1471D3BTL-AW.A</_sfpVendor>
+    <_sfpSerialNumber>AUN1BA0</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>SingleMode</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>2347 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-9 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>2 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-17 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>31 C</_temperature>
+    <_txVoltage>3330 mV</_txVoltage>
+    <_txCurrent>38 mA</_txCurrent>
+    <_txPower>-1 dBm</_txPower>
+    <_rxPower>-4 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/SMOD-1/SFP-3</_distname>
+    <_physicalPort>RFEXT3_10G-7</_physicalPort>
+    <_sfpVendor>FINISARCORP._FTLX1471D3BTL-AW</_sfpVendor>
+    <_sfpSerialNumber>AUN10FC</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>SingleMode</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>2347 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-8 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>3 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>36 C</_temperature>
+    <_txVoltage>3260 mV</_txVoltage>
+    <_txCurrent>38 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-3 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/RMOD-5/SFP-8</_distname>
+    <_physicalPort>OPT_IF2-2</_physicalPort>
+    <_sfpVendor>FINISAR CORP._FTLX1370W3BTL-AW.A</_sfpVendor>
+    <_sfpSerialNumber>UV60DTD</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-9 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>2 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>30 C</_temperature>
+    <_txVoltage>3334 mV</_txVoltage>
+    <_txCurrent>49 mA</_txCurrent>
+    <_txPower>-1 dBm</_txPower>
+    <_rxPower>-25 dBm</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/RMOD-4/SFP-9</_distname>
+    <_physicalPort>OPT_IF2-2</_physicalPort>
+    <_sfpVendor/>
+    <_sfpSerialNumber/>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-1015855/RMOD-1/SFP-10</_distname>
+    <_physicalPort>OPT_IF2-2</_physicalPort>
+    <_sfpVendor>FINISAR CORP._FTLX1370W3BTL-AW.A</_sfpVendor>
+    <_sfpSerialNumber>UV60A2A</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>1310 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>10300 Mb/s</_transmissionRate>
+    <_transmissionDistance>0 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>2 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-10 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>0 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-9 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>2 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-16 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>0 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-14 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>88 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-43 C</_tempLoAlmThreshold>
+    <_temperature>33 C</_temperature>
+    <_txVoltage>3320 mV</_txVoltage>
+    <_txCurrent>49 mA</_txCurrent>
+    <_txPower>-2 dBm</_txPower>
+    <_rxPower>-1 dBm</_rxPower>
+  </SFP>
+</SFPDiagnosticDataMonitoringNotification>

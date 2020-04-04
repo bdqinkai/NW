@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SFPDiagnosticDataMonitoringNotification>
+  <Cablink>
+    <_endPoint1>MRBTS-746767/RMOD-1/SFP-1</_endPoint1>
+    <_endPoint2>MRBTS-746767/SMOD-1/SFP-1</_endPoint2>
+    <_linkType>RP3_01Link</_linkType>
+    <_linkSpeed>6144 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <Cablink>
+    <_endPoint1>MRBTS-746767/RMOD-2/SFP-2</_endPoint1>
+    <_endPoint2>MRBTS-746767/SMOD-1/SFP-2</_endPoint2>
+    <_linkType>RP3_01Link</_linkType>
+    <_linkSpeed>6144 Mb/s</_linkSpeed>
+    <_ber>0</_ber>
+    <_lcv>0</_lcv>
+  </Cablink>
+  <SFP>
+    <_distname>MRBTS-746767/RMOD-1/SFP-1</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-610</_sfpVendor>
+    <_sfpSerialNumber>FR172627167</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>850 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>6100 Mb/s</_transmissionRate>
+    <_transmissionDistance>2 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>-1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-6 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>-2 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-5 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>0 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-20 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>-1 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-18 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>90 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-45 C</_tempLoAlmThreshold>
+    <_temperature>44 C</_temperature>
+    <_txVoltage>3297 mV</_txVoltage>
+    <_txCurrent>5 mA</_txCurrent>
+    <_txPower>524 uW</_txPower>
+    <_rxPower>588 uW</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-746767/SMOD-1/SFP-1</_distname>
+    <_physicalPort>RF_EXT1-1</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-610</_sfpVendor>
+    <_sfpSerialNumber>FR172627166</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>850 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>6100 Mb/s</_transmissionRate>
+    <_transmissionDistance>2 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>-1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-6 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>-2 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-5 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>0 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-20 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>-1 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-18 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>90 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-45 C</_tempLoAlmThreshold>
+    <_temperature>45 C</_temperature>
+    <_txVoltage>3250 mV</_txVoltage>
+    <_txCurrent>5 mA</_txCurrent>
+    <_txPower>540 uW</_txPower>
+    <_rxPower>515 uW</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-746767/RMOD-2/SFP-2</_distname>
+    <_physicalPort>OPT_IF1-1</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-610</_sfpVendor>
+    <_sfpSerialNumber>FR172627171</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>850 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>6100 Mb/s</_transmissionRate>
+    <_transmissionDistance>2 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>-1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-6 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>-2 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-5 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>0 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-20 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>-1 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-18 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>90 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-45 C</_tempLoAlmThreshold>
+    <_temperature>44 C</_temperature>
+    <_txVoltage>3283 mV</_txVoltage>
+    <_txCurrent>6 mA</_txCurrent>
+    <_txPower>539 uW</_txPower>
+    <_rxPower>568 uW</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-746767/SMOD-1/SFP-2</_distname>
+    <_physicalPort>RF_EXT2-2</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-610</_sfpVendor>
+    <_sfpSerialNumber>FR172627169</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>850 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>6100 Mb/s</_transmissionRate>
+    <_transmissionDistance>2 m</_transmissionDistance>
+    <_txPwrHiAlmThreshold>-1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-6 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>-2 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-5 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>0 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-20 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>-1 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-18 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>90 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-45 C</_tempLoAlmThreshold>
+    <_temperature>45 C</_temperature>
+    <_txVoltage>3259 mV</_txVoltage>
+    <_txCurrent>5 mA</_txCurrent>
+    <_txPower>547 uW</_txPower>
+    <_rxPower>545 uW</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-746767/SMOD-1/SFP-3</_distname>
+    <_physicalPort>EIF_RF6-4</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-610</_sfpVendor>
+    <_sfpSerialNumber>FR172627168</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>850 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>6100 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>-1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-6 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>-2 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-5 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>0 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-20 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>-1 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-18 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>90 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-45 C</_tempLoAlmThreshold>
+    <_temperature>44 C</_temperature>
+    <_txVoltage>3223 mV</_txVoltage>
+    <_txCurrent>6 mA</_txCurrent>
+    <_txPower>493 uW</_txPower>
+    <_rxPower>0 uW</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-746767/RMOD-1/SFP-3</_distname>
+    <_physicalPort>OPT_IF2-3</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-610</_sfpVendor>
+    <_sfpSerialNumber>FR172627170</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>850 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>6100 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>-1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-6 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>-2 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-5 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>0 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-20 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>-1 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-18 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>90 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-45 C</_tempLoAlmThreshold>
+    <_temperature>48 C</_temperature>
+    <_txVoltage>3288 mV</_txVoltage>
+    <_txCurrent>7 mA</_txCurrent>
+    <_txPower>450 uW</_txPower>
+    <_rxPower>0 uW</_rxPower>
+  </SFP>
+  <SFP>
+    <_distname>MRBTS-746767/RMOD-2/SFP-4</_distname>
+    <_physicalPort>OPT_IF2-3</_physicalPort>
+    <_sfpVendor>WTD_RTXM228-610</_sfpVendor>
+    <_sfpSerialNumber>FR172627172</_sfpSerialNumber>
+    <_sfpType>LC</_sfpType>
+    <_waveLength>850 nm</_waveLength>
+    <_transmissionMode>NotSupported</_transmissionMode>
+    <_transmissionRate>6100 Mb/s</_transmissionRate>
+    <_transmissionDistance>NotSupported</_transmissionDistance>
+    <_txPwrHiAlmThreshold>-1 dBm</_txPwrHiAlmThreshold>
+    <_txPwrLoAlmThreshold>-6 dBm</_txPwrLoAlmThreshold>
+    <_txPwrHiWarnThreshold>-2 dBm</_txPwrHiWarnThreshold>
+    <_txPwrLoWarnThreshold>-5 dBm</_txPwrLoWarnThreshold>
+    <_rxPwrHiAlmThreshold>0 dBm</_rxPwrHiAlmThreshold>
+    <_rxPwrLoAlmThreshold>-20 dBm</_rxPwrLoAlmThreshold>
+    <_rxPwrHiWarnThreshold>-1 dBm</_rxPwrHiWarnThreshold>
+    <_rxPwrLoWarnThreshold>-18 dBm</_rxPwrLoWarnThreshold>
+    <_tempHiAlmThreshold>90 C</_tempHiAlmThreshold>
+    <_tempLoAlmThreshold>-45 C</_tempLoAlmThreshold>
+    <_temperature>48 C</_temperature>
+    <_txVoltage>3257 mV</_txVoltage>
+    <_txCurrent>6 mA</_txCurrent>
+    <_txPower>546 uW</_txPower>
+    <_rxPower>0 uW</_rxPower>
+  </SFP>
+</SFPDiagnosticDataMonitoringNotification>

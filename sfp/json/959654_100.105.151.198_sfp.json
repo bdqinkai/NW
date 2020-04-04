@@ -1,0 +1,4 @@
+{"time":"11:11:22","requestId":123456,"requestStatus":"ongoing","requestMessage":"Waiting for response"}
+{"time":"11:11:27","requestId":123456,"requestStatus":"ongoing","requestMessage":"Waiting for response"}
+{"time":"11:11:32","requestId":123456,"requestStatus":"ongoing","requestMessage":"Waiting for response"}
+{"time":"11:11:35","requestId":123456,"requestStatus":"failed","requestMessage":"Cannot read property 'getDecodedParameters' of undefined"}
